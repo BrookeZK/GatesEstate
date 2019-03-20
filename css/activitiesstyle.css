@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 24px;
+  background-color: #94c5d3;
+}
+
+.floatingbar {
+  float: right;
+  width: 300px;
+  padding: 5%;
+  background-color: #fff600;
+  line-height: 70px;
+}
+
+div.columns {
+  float: left;
+  width: 50%;
+}
+/* .columns {
+  text-align: left;
+} */
+
+.wraparound img {
+  float:left;
+}
