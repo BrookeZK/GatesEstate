@@ -19,3 +19,28 @@ h2 {
 p {
   text-indent: 20px;
 }
+
+ul {
+  list-style-position: inside;
+}
+
+.mainlinks {
+  width: 200px;
+  float: right;
+  background-color: #6f9ec4;
+}
+
+.column {
+  /* width: 100px; */
+  text-align: center;
+  /* float: left; */
+}
+div.column p {
+  width: 25%;
+  /* text-align: center; */
+  float: left;
+}
+
+.bottle {
+  float: left;
+}
