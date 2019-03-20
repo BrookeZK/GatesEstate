@@ -13,10 +13,16 @@ body {
   line-height: 70px;
 }
 
-div.columns {
+.columns {
   float: left;
   width: 50%;
 }
+
+.columns {
+  float: left;
+  width: 100%;
+}
+
 /* .columns {
   text-align: left;
 } */
